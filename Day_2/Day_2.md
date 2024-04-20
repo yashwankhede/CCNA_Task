@@ -7,7 +7,7 @@ Perform subnet analysis for each provided IP address and its subnet mask. This i
 
 1. **IP Address 1:**
    - IP Address: `128.168.1.240`
-   - Subnet Mask: `255.255.255.0`
+   - Subnet Mask: `255.255.255.240`
 
 2. **IP Address 2:**
    - IP Address: `192.111.145.56`
@@ -15,11 +15,11 @@ Perform subnet analysis for each provided IP address and its subnet mask. This i
 
 3. **IP Address 3:**
    - IP Address: `192.168.1.128`
-   - Subnet Mask: `255.255.255.192`
+   - Subnet Mask: `255.255.255.224`
 
 4. **IP Address 4:**
    - IP Address: `192.168.1.128`
-   - Subnet Mask: `255.255.255.224`
+   - Subnet Mask: `255.255.255.192`
 
 5. **IP Address 5:**
    - IP Address: `192.168.1.128`
