@@ -39,7 +39,7 @@ Perform subnet analysis for each provided IP address and its subnet mask. This i
 ### Subnet Analysis Task with Random Class C Subnet Masks
 
 **Objective:**
-Generate 10 sets of IP addresses with random Class C subnet masks and perform subnet analysis. For each IP address, calculate and display the Network ID (NID), Broadcast IP (BIP), and the number of networks that IP belongs to based on its subnet mask.
+For each IP address, calculate and display the Network ID (NID), Broadcast IP (BIP), and the number of network that IP belongs to based on its subnet mask.
 
 **IP Addresses for Analysis:**
 
