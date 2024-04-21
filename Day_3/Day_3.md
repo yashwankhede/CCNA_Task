@@ -21,9 +21,9 @@
 **Example Solution Format:**
 
 For IP Address `192.168.1.10/26`:
-- Subnet Mask (Binary): `11111111.11111111.11111111.11000000`
-- Subnet Mask: `255.255.255.192`
-- NID: `192.168.1.0`
-- BIP: `192.168.1.63`
-- Number of Networks (N+): `4`
-- Number of IPs in a Network (N+): `64`
+- Subnet Mask (Binary)              : `11111111.11111111.11111111.11000000`
+- Subnet Mask                       : `255.255.255.192`
+- NID                               : `192.168.1.0`
+- BIP                               : `192.168.1.63`
+- Number of Networks (N+)           : `4`
+- Number of IPs in a Network (N+)   : `64`
