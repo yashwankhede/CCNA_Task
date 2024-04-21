@@ -2,16 +2,16 @@
 
 **IP Addresses for Analysis:**
 
-1.  IP Address: `192.168.1.10/31`
-2.  IP Address: `192.168.1.20/25`
-3.  IP Address: `192.168.1.30/28`
-4.  IP Address: `192.168.1.40/29`
-5.  IP Address: `192.168.1.50/30`
-6.  IP Address: `192.168.1.60/26`
-7.  IP Address: `192.168.1.70/27`
-8.  IP Address: `192.168.1.80/25`
-9.  IP Address: `192.168.1.90/32`
-10. IP Address: `192.168.1.100/30`
+1.  IP Address: `192.168.1.150/31`
+2.  IP Address: `192.168.1.209/25`
+3.  IP Address: `192.168.1.104/28`
+4.  IP Address: `192.168.1.240/29`
+5.  IP Address: `192.168.1.200/30`
+6.  IP Address: `192.168.1.186/26`
+7.  IP Address: `192.168.1.98/27`
+8.  IP Address: `192.168.1.111/25`
+9.  IP Address: `192.168.1.121/32`
+10. IP Address: `192.168.1.149/30`
 
 **Steps to Perform:**
 1. Calculate the subnet mask (in binary) and the corresponding subnet mask (in decimal) for each IP address.
