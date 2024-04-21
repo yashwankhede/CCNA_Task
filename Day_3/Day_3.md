@@ -2,15 +2,15 @@
 
 **IP Addresses for Analysis:**
 
-1.  IP Address: `192.168.1.10/26`
-2.  IP Address: `192.168.1.20/27`
+1.  IP Address: `192.168.1.10/31`
+2.  IP Address: `192.168.1.20/25`
 3.  IP Address: `192.168.1.30/28`
 4.  IP Address: `192.168.1.40/29`
 5.  IP Address: `192.168.1.50/30`
 6.  IP Address: `192.168.1.60/26`
 7.  IP Address: `192.168.1.70/27`
-8.  IP Address: `192.168.1.80/28`
-9.  IP Address: `192.168.1.90/29`
+8.  IP Address: `192.168.1.80/25`
+9.  IP Address: `192.168.1.90/32`
 10. IP Address: `192.168.1.100/30`
 
 **Steps to Perform:**
