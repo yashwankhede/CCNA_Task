@@ -17,7 +17,7 @@ Perform subnet analysis for Class A and Class B IP addresses using CIDR notation
 10. IP Address: `26.36.46.56/19`
 
 **Steps to Perform:**
-1. Calculate the netowrk to which the IP address belongs to.
+1. Calculate the netowrk number to which the IP address belongs to.
 2. Write down the NID and BIP for that N+.
 
 **Output should looks like:**
