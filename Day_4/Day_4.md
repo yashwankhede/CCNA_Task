@@ -23,6 +23,9 @@ Perform subnet analysis for Class A and Class B IP addresses using CIDR notation
 **Output should looks like:**
 
 IP Address: 192.168.1.2/25
+
 Network: 2nd N+
+
 NID    : 192.168.1.128
+
 BIP    : 192.168.1.255
