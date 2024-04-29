@@ -9,3 +9,6 @@ Task list to make your networking concepts strong
 
 [Day 4 task](Day_4/Day_4.md): This task involves subnet analysis using CIDR notation for specific Class A and Class B IP addresses, calculating subnet masks, NID, BIP, number of networks (N+), and IPs per network (N+).
 
+[Day 5 task](Day_5/Day_5.md): This task will make your practical knowledge of subnetting more clear on cisco packet tracer.
+
+
