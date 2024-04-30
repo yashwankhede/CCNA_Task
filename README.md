@@ -11,4 +11,5 @@ Task list to make your networking concepts strong
 
 [Day 5 task](Day_5/Day_5.md): This task will make your practical knowledge of subnetting more clear on cisco packet tracer.
 
+[Day 6 task](Day_6/Day_6.md): This task will let you know how the actually subnetting is done in the work environment.
 
